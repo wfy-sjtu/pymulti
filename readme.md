@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 PyMulti is a script for user-friendly control of simulation program **MULTI**. There are tools to generate new cases with modified parameters as you want, based on given model case. Several evaluating functions can quantify the performance of your cases.  Some more advanced optimization for specific goals are also included to optimize parameters automatically. Visualization tools will also be available in the future.
+The original version is imported from the website of: https://github.com/astarrf/pymulti-for-fusion-simulation
 
 ## Table of Contents
 
